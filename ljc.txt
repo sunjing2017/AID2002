@@ -1,4 +1,7 @@
+dsjsjsjdj<<<<<<< HEAD
 hdsjfhsdjfhd
 sdbd2234hdsjjfjfhdsjfh
 888888:wq
 5
+=======
+>>>>>>> Ljc_dev
